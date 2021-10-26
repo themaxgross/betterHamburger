@@ -1,6 +1,6 @@
 import random
 
-buns = ["bun", "cheese crisps", "deep-fried cheese", "taco shell", "another burger", "bagel half", "chicken patty"]
+buns = ["bun", "cheese crisps", "deep-fried cheese", "taco shell", "another burger", "bagel half", "chicken patty", "moon dust"]
 
 fillings = ["ham", "cheese", "egg", "bacon", "beef patty", "ducks", "blood", "pool ball", "kimchi", "varying degrees of steak", "wood chips", "brussel sprouts", "THC extract", "deep-fried Mars bar", "data expunged", "all the sauces at Subway", "cocaine", "mad milk"]
 
